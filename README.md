@@ -27,7 +27,7 @@
 # 📖 [Hello rails backend] <a name="about-project"></a>
 
 💰💼 I have  created a React front-end with a Rails back-end and connect them to display a random message
- the link of the front-end project is [This](https://github.com/beteland123/hello-react-front-end.git)....
+ the link of the front-end project is [This](https://github.com/beteland123/hello-react-front-end)....
 
 ## 🛠 Built With <a name="built-with"></a>
 
